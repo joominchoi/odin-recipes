@@ -1,7 +1,6 @@
 <h1>Recipes</h1>
 
 <h2>Introduction</h2>
-<p><strong>Refreshing HTML knowledge.</strong></p>
 
 <p>In this project, I am going to build a basic recipe website.</p>
 
